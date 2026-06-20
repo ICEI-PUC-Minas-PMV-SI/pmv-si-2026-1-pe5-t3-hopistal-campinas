@@ -1,29 +1,30 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:
+title: "Hospital Campinas Saúde — Projeto de Infraestrutura de Redes"
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Penaforte Mendes
+    given-names: Italo Rangel
+  - family-names: Figueira de Lima
+    given-names: Rodrigo
+  - family-names: de Sousa Lourenço
+    given-names: João
+  - family-names: de Almeida Parreira
+    given-names: Ryann Victor
+  - family-names: dos Santos de Moura
+    given-names: Luigi Rodrigo
+  - family-names: Carvalho Cattoi da Costa
+    given-names: Rodrigo
+  - name-suffix: Professor Orientador
     affiliation: PUC Minas
-    family-names:
-    given-names:
+    family-names: Teixeira
+    given-names: Alexandre
 keywords:
-  -
-  -
-repository-code:
+  - infraestrutura de redes
+  - hospital
+  - aws
+  - zabbix
+  - segurança da informação
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2026-1-pe5-t3-hopistal-campinas
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: 2026-06-19
